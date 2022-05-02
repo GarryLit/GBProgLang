@@ -1,0 +1,15 @@
+D:\GBProgLang\S2T13\obj\Debug\net6.0\S2T13.csproj.AssemblyReference.cache
+D:\GBProgLang\S2T13\obj\Debug\net6.0\S2T13.GeneratedMSBuildEditorConfig.editorconfig
+D:\GBProgLang\S2T13\obj\Debug\net6.0\S2T13.AssemblyInfoInputs.cache
+D:\GBProgLang\S2T13\obj\Debug\net6.0\S2T13.AssemblyInfo.cs
+D:\GBProgLang\S2T13\obj\Debug\net6.0\S2T13.csproj.CoreCompileInputs.cache
+D:\GBProgLang\S2T13\bin\Debug\net6.0\S2T13.exe
+D:\GBProgLang\S2T13\bin\Debug\net6.0\S2T13.deps.json
+D:\GBProgLang\S2T13\bin\Debug\net6.0\S2T13.runtimeconfig.json
+D:\GBProgLang\S2T13\bin\Debug\net6.0\S2T13.dll
+D:\GBProgLang\S2T13\bin\Debug\net6.0\ref\S2T13.dll
+D:\GBProgLang\S2T13\bin\Debug\net6.0\S2T13.pdb
+D:\GBProgLang\S2T13\obj\Debug\net6.0\S2T13.dll
+D:\GBProgLang\S2T13\obj\Debug\net6.0\ref\S2T13.dll
+D:\GBProgLang\S2T13\obj\Debug\net6.0\S2T13.pdb
+D:\GBProgLang\S2T13\obj\Debug\net6.0\S2T13.genruntimeconfig.cache

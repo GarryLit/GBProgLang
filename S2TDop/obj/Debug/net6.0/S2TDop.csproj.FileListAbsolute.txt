@@ -1,0 +1,15 @@
+D:\GBProgLang\S2TDop\bin\Debug\net6.0\S2TDop.exe
+D:\GBProgLang\S2TDop\bin\Debug\net6.0\S2TDop.deps.json
+D:\GBProgLang\S2TDop\bin\Debug\net6.0\S2TDop.runtimeconfig.json
+D:\GBProgLang\S2TDop\bin\Debug\net6.0\S2TDop.dll
+D:\GBProgLang\S2TDop\bin\Debug\net6.0\ref\S2TDop.dll
+D:\GBProgLang\S2TDop\bin\Debug\net6.0\S2TDop.pdb
+D:\GBProgLang\S2TDop\obj\Debug\net6.0\S2TDop.csproj.AssemblyReference.cache
+D:\GBProgLang\S2TDop\obj\Debug\net6.0\S2TDop.GeneratedMSBuildEditorConfig.editorconfig
+D:\GBProgLang\S2TDop\obj\Debug\net6.0\S2TDop.AssemblyInfoInputs.cache
+D:\GBProgLang\S2TDop\obj\Debug\net6.0\S2TDop.AssemblyInfo.cs
+D:\GBProgLang\S2TDop\obj\Debug\net6.0\S2TDop.csproj.CoreCompileInputs.cache
+D:\GBProgLang\S2TDop\obj\Debug\net6.0\S2TDop.dll
+D:\GBProgLang\S2TDop\obj\Debug\net6.0\ref\S2TDop.dll
+D:\GBProgLang\S2TDop\obj\Debug\net6.0\S2TDop.pdb
+D:\GBProgLang\S2TDop\obj\Debug\net6.0\S2TDop.genruntimeconfig.cache

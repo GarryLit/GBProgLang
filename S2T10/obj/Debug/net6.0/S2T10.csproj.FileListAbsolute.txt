@@ -1,0 +1,15 @@
+D:\GBProgLang\S2T10\obj\Debug\net6.0\S2T10.csproj.AssemblyReference.cache
+D:\GBProgLang\S2T10\obj\Debug\net6.0\S2T10.GeneratedMSBuildEditorConfig.editorconfig
+D:\GBProgLang\S2T10\obj\Debug\net6.0\S2T10.AssemblyInfoInputs.cache
+D:\GBProgLang\S2T10\obj\Debug\net6.0\S2T10.AssemblyInfo.cs
+D:\GBProgLang\S2T10\obj\Debug\net6.0\S2T10.csproj.CoreCompileInputs.cache
+D:\GBProgLang\S2T10\bin\Debug\net6.0\S2T10.exe
+D:\GBProgLang\S2T10\bin\Debug\net6.0\S2T10.deps.json
+D:\GBProgLang\S2T10\bin\Debug\net6.0\S2T10.runtimeconfig.json
+D:\GBProgLang\S2T10\bin\Debug\net6.0\S2T10.dll
+D:\GBProgLang\S2T10\bin\Debug\net6.0\ref\S2T10.dll
+D:\GBProgLang\S2T10\bin\Debug\net6.0\S2T10.pdb
+D:\GBProgLang\S2T10\obj\Debug\net6.0\S2T10.dll
+D:\GBProgLang\S2T10\obj\Debug\net6.0\ref\S2T10.dll
+D:\GBProgLang\S2T10\obj\Debug\net6.0\S2T10.pdb
+D:\GBProgLang\S2T10\obj\Debug\net6.0\S2T10.genruntimeconfig.cache
